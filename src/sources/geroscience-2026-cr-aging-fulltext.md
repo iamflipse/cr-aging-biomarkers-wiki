@@ -1,0 +1,1978 @@
+# Full Text: Guida et al. 2026, GeroScience
+
+> **Title:** Impact of caloric restriction on biological aging: insights from a composite biomarker index in older adults
+> **Authors:** Cassidy A. Guida, Fang-Chi Hsu, Rebecca Neiberg, Charles Semelka, Haiying Chen, Philip Kramer, Denise K. Houston, Barbara Nicklas, Stephen B. Kritchevsky, Michael E. Miller
+> **Journal:** *GeroScience* (2026)
+> **DOI:** [10.1007/s11357-026-02529-9](https://doi.org/10.1007/s11357-026-02529-9)
+> **Article page:** https://link.springer.com/article/10.1007/s11357-026-02529-9
+> **Received:** 26 June 2026 / **Accepted:** 2 September 2026
+
+---
+
+GeroScience
+https://doi.org/10.1007/s11357-026-02529-9
+
+ORIGINAL ARTICLE
+
+Impact of caloric restriction on biological aging: insights
+from a composite biomarker index in older adults
+Cassidy A. Guida · Fang‑Chi Hsu · Rebecca Neiberg · Charles Semelka ·
+Haiying Chen · Philip Kramer · Denise K. Houston · Barbara Nicklas ·
+Stephen B. Kritchevsky · Michael E. Miller
+
+Received: 26 June 2026 / Accepted: 2 September 2026
+© The Author(s) 2026
+
+Abstract Caloric restriction (CR) extends lifespan
+and delays age-related diseases in model organisms,
+yet its effects on biological aging in humans remain
+unclear. We pooled data from seven randomized CR
+trials (n = 829) and examined randomization to CR
+and change in weight with a biomarker index composed of CRP, IL-6, cystatin C, insulin, GDF-15,
+and TNF-R1. CR improved the composite biomarker
+index. The effect of CR decreased from −2.2 to −1.2
+(95% CI −2.0 to −0.3) after adjustment for weight,
+while the effect of weight loss decreased from 0.22 to
+0.16 (95% CI 0.09 to 0.23) when CR was included in
+the model, suggesting improvements in the biomarker
+Supplementary Information The online version
+contains supplementary material available at https://​doi.​
+org/​10.​1007/​s11357-​026-​02529-9.
+C. A. Guida (*) · C. Semelka · P. Kramer ·
+D. K. Houston · B. Nicklas · S. B. Kritchevsky
+Section of Gerontology and Geriatric Medicine,
+Department of Internal Medicine, Wake Forest University
+School of Medicine, Winston‑Salem, NC 27106, USA
+e-mail: cassidy.guida@wfusm.edu
+F.-C. Hsu · R. Neiberg · H. Chen
+Department of Biostatistics and Data Science, Wake
+Forest University School of Medicine, Winston‑Salem,
+NC 27106, USA
+M. E. Miller
+Division of Public Health Sciences, Wake Forest
+University School of Medicine, Winston‑Salem,
+NC 27106, USA
+
+index are only partially mediated by the amount of
+weight loss. Mediation analyses showed that only
+48.5% (95% CI 22.6 to 82.2%) of the CR effects were
+explained by weight loss. These findings support the
+potential for composite biomarker indices as measures of intervention response and CR as a strategy to
+target biological aging.
+Keywords Biomarkers · Aging · Caloric
+restriction · Older adults
+Introduction
+As the population ages, the prevention of age-related
+diseases and preservation of functional independence
+have become a major public health priority. There is
+growing recognition of the need for biomarkers that
+would reliably indicate how interventions affect the
+aging process [1, 2]. Reliable biomarkers of aging
+could be critical tools for evaluating biological aging,
+monitoring morbidity, and assessing the efficacy of
+strategies designed to extend healthspan [3].
+A key aspect of biomarker evaluation involves the
+responsiveness of the biomarker to an intervention
+that is known to affect the aging process. One such
+intervention is caloric restriction (CR), a sustained
+reduction in energy below ad libitum intake without
+malnutrition. In animal models, CR has consistently
+been shown to extend lifespan and delay the onset of
+age-related diseases [4, 5]. Animal models have also
+Vol.: (0123456789)
+
+GeroScience
+
+shown biological benefits across a range of restriction levels (10–40%) [4–6]. In human, the CALERIE
+(Comprehensive Assessment of Long-term Effects of
+Reducing Intake of Energy) trial demonstrated that a
+2-year, mean achieved CR of 11.9% intervention in
+young- and middle-aged, normal-weight adults had
+significant improvements in cardiometabolic risk factors, suggesting potential translational benefit [7, 8].
+The CALERIE intervention affected biomarkers of
+aging including a measure of biologic age based on a
+set of age-related clinical chemistries, and one methylomic measure associated with the pace of aging [9,
+10]. In addition, a meta-analysis of randomized trials including a CR arm showed a 15% reduction in
+all-cause mortality [11]. Recent findings from large
+study of GLP-1 receptor agonists also suggest benefit
+for all-cause mortality [12].
+Justice et al. [13] proposed criteria for selecting
+biomarkers for evaluation of therapies intended to
+affect the aging process that would satisfy many conditions necessary to qualify the biomarkers as potential surrogate biomarkers. The criteria included (1)
+measurement reliability and feasibility; (2) relevance
+to aging; (3) robust and consistent ability to predict
+all-cause mortality, clinical and functional outcomes
+independent of age; and (4) responsiveness to intervention [13]. Based on a survey of the literature, they
+identified nine biomarkers and recommended the construction of a composite index rather than considering
+each biomarker individually as a way to dampen interindividual variability in intervention response. This
+index was shown to change in response to CR but
+not exercise in a randomized trial of 100 older persons with heart failure with preserved ejection fraction [14]. It is not known whether this index applies
+more generally, and it is also unclear whether there is
+a dose-response relationship between the intensity of
+CR and the change in the index.
+To address these questions, we used Wake Forest’s Integrated Aging Studies Databank and Repository (IASDR) which houses data and biospecimens
+from over 17 completed CR-based intervention trials
+in older adults. The trials vary in their inclusion criteria, their target weight loss, and the availability of
+non-CR groups for comparison. We hypothesized that
+an index comprised C-reactive protein (CRP), interleukin-6 (IL-6), cystatin C (CysC), insulin, growth
+differentiation factor-15 (GDF-15), and tumor necrosis factor-receptor I (TNF-RI) would be improved by
+Vol:. (1234567890)
+
+CR interventions, and that there would be a doseresponse to the amount of weight lost. It is possible
+that simply being in a negative energy balance would
+provide some benefit; thus, we also pursued a mediation analysis to estimate how much of the effect of
+CR was mediated by the extent of weight loss.
+Methods
+Study design and data sources
+This study is a mediation analysis of completed CR
+intervention trials in older adults using biospecimens
+from the Wake Forest Integrated Aging Studies Databank and Repository (IASDR). This present analysis pooled individual data from seven randomized
+trials to evaluate randomization to CR and changes
+in weight with biomarkers of aging across varying
+degrees of CR.
+Selection of biomarker index participant samples
+In total, 2126 samples from 1197 unique study participants were considered. Of these, 1176 samples were
+matched, and 1154 had non-missing treatment group
+information, representing 1063 unique individuals.
+Samples were distributed evenly and systematically
+across 42 plates. There were no significant differences in BMI, age, or sex across plates, confirming
+that the sample allocation was balanced. All samples
+with available biomarker measurements (CRP, GDF15, IL-6, insulin, CysC, or TNF-R1) were included,
+totaling 455 samples—comprising 21 single samples
+and 217 paired samples. For the remaining 679 samples without biomarker data, 83 single samples were
+selected to ensure at least one single sample per plate,
+with 41 plates containing two singles. The remaining
+596 slots were filled using pairs from 298 participants
+(see Supplemental Tables 3 and 4).
+Description of contribution studies
+All seven trials enrolled older adults and included at
+least one intervention arm designed to induce CR,
+with longitudinal assessments of body weight, physical function, and circulating biomarkers. Across
+trials, CR interventions were delivered via dietary
+counseling, structured meal plans, or partial meal
+
+GeroScience
+
+replacement strategies, while comparator groups
+received usual diet, health education, or non-CR
+behavioral interventions. Intervention durations
+ranged from 6 to 18 months. Detailed protocols for
+each trial have been previously published. Briefly,
+CLIP [Cooperative Lifestyle Intervention Program] (2006–2009): Included 288 older adults,
+in which 182 were selected for this study, aged
+60–79 years with a BMI of 28 kg/m2 or greater
+and either cardiovascular disease or cardiometabolic dysfunction, along with self-reported limitation in mobility. This 18-month, randomized
+trial measured the effects of physical activity and
+weight loss on mobility. The CR intervention
+aimed for 7–10% weight loss, delivered through
+dietary counseling [15].
+EMPOWER [Empowered with Movement to
+Prevent Obesity and Weight Regain] (2016–
+2019): Enrolled 188 low-active older adults aged
+65–86 years old with obesity (BMI 30–45 kg/
+m2), of whom 61 were included in this study.
+This 18-month, three-arm trial compared dietary
+weight loss plus aerobic exercise and a socialcognitive group-mediated behavioral weight
+loss program on weight loss and maintenance.
+The CR target for intervention arms was 7–10%
+weight loss, achieved through dietary counseling
+[16].
+HALLO-P [Healthy Aging and Late Life Outcomes Pilot] (2022–2024): Included 90 older
+adults 60 years or older with obesity or overweight
+(BMI greater than 27 kg/m2) and an indication for
+weight loss (i.e., hypertension, hyperlipidemia,
+elevated waist girth, controlled diabetes). This
+9-month pilot study randomized participants to
+one of three intervention arms, CR, remote CR, or
+time-restricted eating, to evaluate intervention feasibility and acceptability and inform the design of
+a full-scale randomized trial to evaluate the longterm effects on health [17].
+IDEA [Intensive Diet and Exercise for Arthritis]
+(2006–2010): Included 254 older adults, in which
+244 were selected for this study, aged 55 years or
+older with overweight or obesity (BMI 27–41 kg/
+m2) and radiographically confirmed knee osteoarthritis. This 18-month, single-blind study
+tested diet-induced weight loss intervention with
+or without exercise, compared with exercise-only
+
+control. CR targets were approximately 10–15%,
+delivered through structured dietary counseling
+[18].
+IM-FIT [Improving Muscle for Functional Independence Trial] (2010–2013): Included 126 older
+adults aged 65–75 years with overweight or obesity (BMI 27–35 g/m2) in which 60 participants
+were chosen for this study. This 5-month trial
+randomized participants to either moderate-intensity resistance training intervention with CR or
+resistance training alone to evaluate the effects of
+adding CR for weight loss on muscle and physical function response. The CR target was 8–10%
+weight loss [19].
+INFINITE [Investigating Fitness Interventions
+in the Elderly] (2009–2014): Enrolled 180 older
+adults 65–79 years with obesity (BMI 30–40 kg/
+m2), of whom 122 participants were selected for
+this study. This 20-week trial randomized participants to aerobic training alone or aerobic training
+with moderate CR or intensive CR. CR targets
+were 5–11% weight loss delivered via dietary
+counseling and partial meal replacement [7].
+MEDIFAST [Medifast for Seniors Study] (2016–
+2019): Included 96 older adults aged 65–79 years
+with obesity (BMI 30–40 kg/m2) and low physical function, in which 31 were selected for this
+study. This 6-month study randomized participants
+to either a high-protein weight loss program with
+partial meal replacements or weight stability arm
+and assessed change in muscle mass, body composition, and physical function. The aim for weight
+loss was 7–10% over the intervention period [20].
+Descriptive measures of body composition and
+physical function
+All trials included standardized longitudinal assessments of body weight and composition measured
+using calibrated scales and dual-energy X-ray absorptiometry (DEXA) scans when available. Physical
+function was assessed using validated mobility and
+performance measures such as the Short Physical Performance Battery (SPPB) [21], grip strength, and fastpaced 400-m walk. Circulating biomarkers, including
+fasting glucose, insulin, lipid panels, inflammatory
+markers, and other trial-specific biomarkers, were
+collected per trial protocol.
+Vol.: (0123456789)
+
+GeroScience
+
+Caloric restriction exposure
+CR was defined as randomization to an intervention
+explicitly designed to reduce daily energy intake
+relative to baseline requirements. For pooled analysis, CR was treated as a binary exposure (CR versus
+no CR), while change in body weight was evaluated
+as a downstream consequence of CR.
+Biomarker index assessment
+Biomarkers were selected based on the Targeting
+Aging with Metformin (TAME) framework [13,
+14] and included markers of inflammation, metabolism, and renal function (CRP, IL-6, CysC, insulin, GDF-15, and TNF-R1). The number of samples from a study that was allocated to a plate was
+done proportionally to the total number of samples
+in each study, ensuring balanced representation
+across plates and minimizing confounding between
+study membership and batch assignment. All samples from the same person (repeated measurements)
+were included on the same plate to avoid withinperson batch effects, and samples from mixed studies and treatment groups were distributed across
+plates using a stratified random allocation strategy
+to maintain balance. Within plates, samples were
+randomly assigned to positions to reduce potential
+positional effects. Batch effects were accounted for
+in downstream analysis by modeling plate as a random effect in the mixed-effects models.
+Statistical methods
+Descriptive statistics (means (SDs) for normally
+distributed variables, medians (interquartile ranges)
+for non-normally distributed variables, and counts
+(proportions) for categorical variables) (Table 1)
+were used to summarize demographics, body mass,
+physical performance, and biomarker information for each study and overall. Within CR groups,
+changes in weight and biomarkers (Table 2) were
+calculated by subtracting post-randomization measurements obtained at the 6-month visit from prerandomization measurements, with means (SDs)
+used as measures of central tendency within study
+and overall. Additionally, mean differences between
+Vol:. (1234567890)
+
+groups and their 95% confidence intervals (CIs)
+were calculated.
+Prior to modeling, we used fully conditional specification multivariate imputation to create 100 separate
+datasets, using the 14 variables in the imputation procedure (weight and each of the 6 biomarkers at the
+baseline and follow-up time points). Mixed-effects
+models, accounting for a random batch effect, were
+employed to explore the relationships between change
+in each separate biomarker, in addition to the quintile
+sum score (i.e., assigning each biomarker’s change
+to a quintile and summing the quintiles across six
+biomarkers), and change in weight using the nonimputed dataset and within each imputed dataset. Log
+transformations were required to allow for the residuals of models analyzing CRP and IL-6 to approximate normality, making change in these variables the
+log of relative differences. Analyses were performed
+for each study and overall. We fit a series of models
+predicting change in each biomarker: (1) model 1:
+an indicator variable representing randomization to
+CR versus no CR as the only predictor, (2) model 2:
+change in weight as the only predictor, and (3) model
+3: both the change in weight and the CR indicator
+variable as predictors. For analysis using the overall
+dataset, a study effect was additionally included as a
+fixed effect in each model to account for systematic
+differences and potential between-study heterogeneity across the seven contributing trials. Results from
+each of the 100 imputed datasets were summarized
+by combining the results from the different imputed
+datasets using the individual estimates and standard
+errors to derive valid inference.
+Mediation analysis was conducted to assess
+whether the CR effect on the outcome measures (i.e.,
+change in each biomarker and the quintile sum score)
+was mediated through change in weight. Because CR
+was randomly assigned, confounding of the treatment–mediator and treatment–outcome relationships
+was minimized by design. Analyses were performed
+for each study and overall using both non-imputed
+and imputed datasets. In addition to the above models,
+we also fit a model that related the CR indicator variable to the mediator (change in weight) as an outcome
+(model 4). Indirect effects (defined as the portion of
+the exposure’s effect on the outcome measure that
+operates through the mediator) were estimated as the
+product of coefficient for the CR indicator from model
+4 and the coefficient for change in weight from model
+
+GeroScience
+Table 1  Participant characteristics, body composition, physical function, and inflammatory biomarker concentrations in each study
+and in all studies combined
+CLIP
+(n = 182)
+Treatment group, no. (%)
+120 (65.9)
+No
+caloric
+restriction
+62 (34.1)
+Caloric
+restriction
+7.53 (1.02)
+Time
+between
+biomarker
+collection,
+mean (SD),
+months
+Female, no. 117 (64.3)
+(%)
+White, no.
+157 (86.3)
+(%)
+Age, mean
+66.94 (4.68)
+(SD), years
+BMI, mean 32.74 (4.00)
+(SD), kg/
+m2
+91.41
+Weight,
+mean (SD), (15.07)
+kg
+38.66 (6.95)
+Total body
+fat, mean
+(SD), %
+35.64 (8.42)
+Fat mass,
+mean (SD),
+kg
+54.47
+Lean mass,
+mean (SD), (11.40)
+kg
+SPPB score, 10.04 (1.39)
+0–12,
+mean (SD)
+–
+Grip
+strength,
+mean (SD),
+kg
+1.07 (0.20)
+4-m walk
+speed,
+mean (SD),
+m/s
+400-m walk 4.28 (0.79)
+time, mean
+(SD), min
+
+EMPOWER HALLO-P
+(n = 61)
+(n = 90)
+
+IDEA
+(n = 283)
+
+IM-FIT
+(n = 60)
+
+INFINITE
+(n = 121)
+
+MEDIFAST
+(n = 31)
+
+Overall
+(n = 829)
+
+0 (0.0)
+
+34 (37.8)
+
+90 (31.8)
+
+30 (50.0)
+
+44 (36.4)
+
+16 (51.6)
+
+335 (40.4)
+
+61 (100)
+
+56 (62.2)
+
+193 (68.2)
+
+30 (50.0)
+
+77 (63.6)
+
+15 (48.4)
+
+494 (59.6)
+
+7.30 (2.33)
+
+10.51 (1.05)
+
+8.15 (1.71)
+
+4.92 (0.91)
+
+5.02 (0.44)
+
+6.83 (0.69)
+
+7.51 (2.08)
+
+46 (75.4)
+
+56 (62.2)
+
+193 (68.2)
+
+32 (53.3)
+
+92 (76.0)
+
+22 (71.0)
+
+559 (67.4)
+
+44 (72.1)
+
+75 (83.3)
+
+239 (84.5)
+
+56 (93.3)
+
+89 (73.6)
+
+19 (61.3)
+
+680 (82.0)
+
+70.21 (3.99)
+
+67.28 (4.93)
+
+66.17 (6.11)
+
+69.59 (3.60)
+
+69.02 (3.46)
+
+69.09 (3.05)
+
+67.53 (5.12)
+
+35.36 (3.62)
+
+31.71 (2.87)
+
+33.43 (3.68)
+
+30.30 (2.32)
+
+34.63 (3.66)
+
+35.60 (3.06)
+
+33.26 (3.79)
+
+96.15
+(13.68)
+
+90.33
+(12.88)
+
+92.72
+(15.15)
+
+85.13
+(12.10)
+
+94.59
+(13.16)
+
+97.98
+(13.95)
+
+92.34 (14.47)
+
+45.94 (5.22)
+
+42.30 (6.58)
+
+39.61 (6.80)
+
+39.06 (6.72)
+
+43.98 (6.10)
+
+–
+
+40.87 (6.98)
+
+44.41 (6.82)
+
+38.38 (7.00)
+
+36.35 (7.63)
+
+32.99 (5.09)
+
+41.71 (7.75)
+
+–
+
+37.66 (8.13)
+
+50.36 (9.94)
+
+50.18
+(10.41)
+
+53.78
+(12.02)
+
+50.27
+(11.18)
+
+51.09 (9.97)
+
+–
+
+52.54 (11.26)
+
+10.52 (1.39)
+
+11.43 (0.84)
+
+10.80 (1.48)
+
+10.42 (1.88)
+
+10.51 (1.46)
+
+10.45 (1.34)
+
+10.56 (1.47)
+
+27.62 (7.68)
+
+31.43 (9.40)
+
+28.87
+(10.09)
+
+31.43
+(11.53)
+
+–
+
+26.20
+(10.22)
+
+29.48 (9.95)
+
+1.02 (0.17)
+
+1.27 (0.22)
+
+1.03 (0.20)
+
+1.13 (0.19)
+
+1.01 (0.16)
+
+0.98 (0.17)
+
+1.08 (0.21)
+
+4.06 (0.69)
+
+3.26 (0.59)
+
+4.12 (0.79)
+
+4.53 (0.75)
+
+4.06 (0.64)
+
+3.93 (0.70)
+
+4.06 (0.80)
+
+Vol.: (0123456789)
+
+GeroScience
+Table 1  (continued)
+
+Repeated
+chair rise
+time, mean
+(SD), s
+CRP, median
+(IQR),
+mg/L
+IL-6, median
+(IQR), pg/
+mL
+Cystatin C,
+median
+(IQR),
+mg/L
+Insulin,
+median
+(IQR),
+pmol/mL
+GDF-15,
+median
+(IQR), pg/
+mL
+TNF-R1,
+median
+(IQR), pg/
+mL
+
+CLIP
+(n = 182)
+
+EMPOWER HALLO-P
+(n = 61)
+(n = 90)
+
+IDEA
+(n = 283)
+
+IM-FIT
+(n = 60)
+
+INFINITE
+(n = 121)
+
+MEDIFAST
+(n = 31)
+
+Overall
+(n = 829)
+
+14.37 (3.47)
+
+12.35 (2.67)
+
+10.43 (2.57)
+
+12.20 (3.78)
+
+12.63 (3.62)
+
+13.26 (4.23)
+
+12.98 (2.71)
+
+12.82 (3.70)
+
+3.29 (1.67,
+7.18)
+
+3.20 (1.82,
+5.66)
+
+2.20 (1.21,
+3.81)
+
+3.12 (1.37,
+6.78)
+
+1.93 (0.99,
+3.11)
+
+3.35 (1.47,
+5.79)
+
+3.45 (1.08,
+7.39)
+
+2.87 (1.37,
+5.99)
+
+2.98 (2.13,
+4.33)
+
+3.53 (2.57,
+4.84)
+
+2.88 (2.22,
+3.84)
+
+3.16 (2.26,
+4.84)
+
+2.68 (2.15,
+4.01)
+
+3.27 (2.21,
+4.58)
+
+3.13 (2.21,
+5.68)
+
+3.11 (2.23,
+4.46)
+
+0.77 (0.67,
+0.89)
+
+0.78 (0.72,
+0.90)
+
+0.73 (0.65,
+0.88)
+
+0.79 (0.70,
+0.92)
+
+0.75 (0.64,
+0.84)
+
+0.80 (0.71,
+0.93)
+
+0.83 (0.71,
+0.88)
+
+0.78 (0.68,
+0.90)
+
+78.50
+(52.80,
+107.00)
+
+78.90
+(53.70,
+118.00)
+
+51.50
+(33.60,
+76.40)
+
+72.00
+(49.00,
+102.00)
+
+51.10
+(38.00,
+83.20)
+
+82.45
+(54.20,
+113.00)
+
+87.40
+(48.50,
+135.00)
+
+72.15 (48.20,
+104.00)
+
+813.50
+(649.00,
+1110.00)
+
+867.00
+(719.00,
+1099.00)
+
+814.00
+(680.00,
+987.00)
+
+798.50
+(648.00,
+1043.00)
+
+840.00
+(728.00,
+1024.00)
+
+882.00
+(673.50,
+1085.00)
+
+1034.00
+(827.00,
+1199.00)
+
+833.00
+(670.00,
+1083.00)
+
+1130.00
+(934.00,
+1398.00)
+
+1185.00
+(988.00,
+1509.00)
+
+1147.50
+(975.50,
+1362.50)
+
+1244.00
+(1024.00,
+1501.00)
+
+1067.00
+(870.00,
+1225.00)
+
+1321.50
+(1083.00,
+1537.50)
+
+1169.00
+(1020.00,
+1559.00)
+
+1185.00
+(994.00,
+1451.00)
+
+3. Confidence intervals (CIs) for indirect effects were
+obtained using bootstrapping with 1000 resamples.
+For each of the 100 imputed datasets, 1000 bootstrap
+samples were generated, and the pooled bootstrap distribution across all imputations was used to estimate
+the point estimate and percentile-based 95% CIs for
+the indirect effects. This approach corresponds to
+standard mediation analysis methods for randomized
+trials and relies on the assumption of no unmeasured
+mediator–outcome confounding conditional on treatment assignment and modeled covariates [22–26]. To
+evaluate the impact of intervention-related heterogeneity, a sensitivity analysis was performed in the subset of studies that included multiple exercise modalities (CLIP, EMPOWER, and IDEA) by additionally
+adjusting for exercise modality.
+
+Vol:. (1234567890)
+
+Results
+Baseline participant characteristics
+We pooled data from 829 participants selected from
+seven studies, with 494 (59.6%) assigned to CR and
+335 (40.4%) to no-CR groups (Table 1). Participants
+were more likely to be female (67.4%) and white
+(82.0%) with mean age of 67.5 years. Mean preintervention body mass indexes (BMI) ranged from
+30.4 to 35.6 kg/m2 and mean body weight ranged
+from 85.3 to 97.9 kg. Overall, total body fat percentage was 40.9% with average fat mass of 37.7 kg and
+average lean mass of 52.5 kg. Physical function measures were similar across the studies with mean Short
+Physical Performance Battery scores ranging from
+
+TNF-R1, pg/
+mL
+
+GDF-15, pg/
+mL
+
+Insulin,
+pmol/mL
+
+Cystatin C,
+mg/L
+
+IL-6, pg/mL
+
+CRP, mg/L
+
+56.80 ± 299.33
+
+−57.72 ± 206.62
+
+114.52 (35.43,
+193.61)
+
+−37.02 ± 364.48
+
+−93.34 ± 412.48
+
+56.32 (−67.15,
+179.79)
+
+Diff, mean (95%
+CI)
+
+No CR, mean ± SD
+
+CR, mean ± SD
+
+Diff, mean (95%
+CI)
+
+11.83 (−1.20, 24.86)
+
+Diff, mean (95%
+CI)
+
+CR, mean ± SD
+
+−25.74 ± 36.01
+
+No CR, mean ± SD
+
+−13.91 ± 46.60
+
+0.02 (−0.03, 0.07)
+
+Diff, mean (95%
+CI)
+
+CR, mean ± SD
+
+−0.05 ± 0.12
+
+No CR, mean ± SD
+
+−0.03 ± 0.20
+
+0.01 (−2.01, 2.03)
+
+Diff, mean (95%
+CI)
+
+CR, mean ± SD
+
+−0.59 ± 2.36
+
+No CR, mean ± SD
+
+−0.59 ± 9.86
+
+1.75 (0.24, 3.25)
+
+Diff, mean (95%
+CI)
+
+CR, mean ± SD
+
+−1.58 ± 5.02
+
+No CR, mean ± SD
+
+0.16 ± 4.42
+
+6.96 (5.32, 8.61)
+
+Diff, mean (95%
+CI)
+
+CR, mean ± SD
+
+−8.44 ± 5.71
+
+No CR, mean ± SD
+
+−1.48 ± 3.84
+
+CR, mean ± SD
+
+2.50 (1.94, 3.06)
+
+Diff, mean (95%
+CI)
+
+No CR, mean ± SD
+
+−3.03 ± 1.92
+
+CR, mean ± SD
+
+Weight, kg
+
+−0.53 ± 1.38
+
+No CR, mean ± SD
+
+BMI, kg/m2
+
+CLIP
+
+Randomization
+group
+
+Change
+measure
+
+−36.04 ± 301.60
+
+−9.17 ± 271.72
+
+−20.47 ± 50.02
+
+−0.01 ± 0.16
+
+−0.30 ± 2.43
+
+−0.77 ± 2.29
+
+−7.78 ± 5.92
+
+−2.82 ± 2.09
+
+EMPOWER
+
+20.59 (−85.44,
+126.62)
+
+−36.11 ± 254.81
+
+−15.52 ± 151.12
+
+6.07 (−88.10,
+100.25)
+
+30.37 ± 183.11
+
+36.44 ± 205.92
+
+7.83 (−3.26, 18.92)
+
+−9.89 ± 21.54
+
+−2.06 ± 24.26
+
+−0.18 (−0.48, 0.13)
+
+−0.06 ± 0.17
+
+−0.24 ± 1.12
+
+−0.00 (−1.12, 1.11)
+
+0.31 ± 2.79
+
+0.30 ± 2.12
+
+0.40 (−2.35, 3.16)
+
+0.79 ± 4.74
+
+1.20 ± 6.26
+
+4.84 (2.61, 7.07)
+
+−5.81 ± 5.92
+
+−0.98 ± 4.30
+
+1.66 (0.88, 2.45)
+
+−1.88 ± 2.02
+
+−0.21 ± 1.56
+
+HALLO-P
+
+49.41 (−29.93,
+128.76)
+
+−50.83 ± 291.45
+
+−1.42 ± 276.15
+
+−33.41 (−91.42,
+24.59)
+
+24.61 ± 279.18
+
+−8.80 ± 169.30
+
+12.01 (−2.53, 26.56)
+
+−20.80 ± 43.46
+
+−8.79 ± 56.26
+
+−0.00 (−0.07, 0.06)
+
+−0.03 ± 0.17
+
+−0.03 ± 0.27
+
+0.53 (−0.91, 1.97)
+
+−0.31 ± 6.12
+
+0.22 ± 4.72
+
+1.47 (−0.29, 3.23)
+
+−1.71 ± 6.37
+
+−0.24 ± 6.46
+
+7.26 (5.99, 8.52)
+
+−8.47 ± 6.22
+
+−1.22 ± 3.54
+
+2.61 (2.17, 3.05)
+
+−3.01 ± 2.18
+
+−0.40 ± 1.22
+
+IDEA
+
+−7.42 (−148.2,
+133.37)
+
+−77.00 ± 262.92
+
+−84.42 ± 219.73
+
+30.46 (−84.56,
+145.47)
+
+−17.42 ± 149.42
+
+13.04 ± 235.09
+
+−11.46 (−43.51,
+20.58)
+
+−10.00 ± 27.09
+
+−21.47 ± 71.87
+
+−0.02 (−0.11, 0.07)
+
+0.02 ± 0.14
+
+0.00 ± 0.17
+
+−0.14 (−0.94, 0.65)
+
+−0.18 ± 0.83
+
+−0.33 ± 1.73
+
+0.88 (−0.26, 2.02)
+
+−0.23 ± 1.35
+
+0.65 ± 2.39
+
+5.77 (4.25, 7.29)
+
+−5.51 ± 3.27
+
+0.26 ± 2.06
+
+2.08 (1.53, 2.62)
+
+−2.02 ± 1.15
+
+0.05 ± 0.80
+
+IM-FIT
+
+Table 2  Descriptive statistics for weight, BMI, and biomarker change at follow-up by caloric restriction group
+
+107.25 (−44.73,
+259.22)
+
+−75.90 ± 343.01
+
+31.35 ± 402.03
+
+−6.69 (−102.7,
+89.28)
+
+54.72 ± 238.52
+
+48.03 ± 210.91
+
+42.89 (24.08, 61.70)
+
+−38.37 ± 47.13
+
+4.52 ± 40.49
+
+−0.06 (−0.18, 0.07)
+
+−0.01 ± 0.28
+
+−0.07 ± 0.34
+
+−1.24 (−5.41, 2.92)
+
+−0.58 ± 1.95
+
+−1.83 ± 11.88
+
+−0.16 (−2.47, 2.15)
+
+−1.74 ± 4.09
+
+−1.90 ± 6.03
+
+7.10 (5.30, 8.90)
+
+−9.02 ± 4.65
+
+−1.92 ± 3.78
+
+2.62 (1.98, 3.25)
+
+−3.31 ± 1.64
+
+−0.69 ± 1.38
+
+INFINITE
+
+−0.02 ± 0.19
+
+−0.06 ± 0.42
+
+−0.07 (−1.09,
+0.94)
+
+−0.29 ± 4.21
+
+−0.37 ± 7.79
+
+1.09 (0.28, 1.89)
+
+−1.17 ± 5.15
+
+−0.09 ± 5.41
+
+6.69 (6.01, 7.38)
+
+−7.90 ± 5.75
+
+−1.21 ± 3.64
+
+2.40 (2.16, 2.64)
+
+−2.81 ± 2.01
+
+−0.41 ± 1.30
+
+Overall
+
+−100.4 (−471.0,
+270.14)
+
+196.58 ± 416.81
+
+96.17 ± 457.58
+
+−23.74 (−302.2,
+254.73)
+
+29.08 ± 271.08
+
+5.33 ± 395.31
+
+20.23 (−19.08,
+59.54)
+
+−3.72 ± 46.08
+
+16.51 ± 46.78
+
+37.02 (−12.42,
+86.47)
+
+−52.30 ± 320.39
+
+−15.28 ± 325.44
+
+15.95 (−21.89,
+53.79)
+
+14.01 ± 245.43
+
+29.96 ± 249.74
+
+13.34 (6.17,
+20.51)
+
+−21.78 ± 41.40
+
+−8.44 ± 50.14
+
+−0.14 (−0.38, 0.09) −0.03 (−0.08,
+0.02)
+
+0.06 ± 0.18
+
+−0.08 ± 0.34
+
+0.29 (−1.51, 2.09)
+
+0.14 ± 1.52
+
+0.43 ± 2.72
+
+0.06 (−3.90, 4.02)
+
+−0.59 ± 1.54
+
+−0.53 ± 6.14
+
+5.88 (2.94, 8.82)
+
+−6.24 ± 4.62
+
+−0.35 ± 1.77
+
+2.01 (1.05, 2.98)
+
+−2.13 ± 1.50
+
+−0.12 ± 0.64
+
+MEDIFAST
+
+GeroScience
+
+Vol.: (0123456789)
+
+GeroScience
+
+(A) – Model 1 CR Effect
+
+(C) – Model 3 CR Effect
+
+(B) – Model 2 Wt Chg Effect
+
+(D) – Model 3 Wt Chg Effect
+
+Vol:. (1234567890)
+
+GeroScience
+◂Fig. 1  Associations between CR, weight change, and com-
+
+posite biomarker index across pooled RCTs. A shows the association between randomization to CR and change in composite biomarker index (quintile sum score) (model 1). B shows
+the association between change in body weight and change in
+composite biomarker index (model 2). C shows the association
+between CR and change in composite biomarker index after
+adjustment for weight change, representing the residual direct
+effects of CR (model 3). D shows the association between
+weight change and composite biomarker index after adjustment
+for CR assignment (model 3). Points represent study-specific
+estimates and 95% confidence intervals; pooled estimates are
+shown as overall effects. Note that EMPOWER only has CR,
+so unable to estimate a CR effect for that study
+
+10.04 to 11.43, 4-m walk speeds of 0.98 to 1.27 m/s,
+chair rise times of 10.4 to 14.4 s, and grip strength
+of 29.5 kg. Baseline biomarkers showed modest systemic inflammation variation and metabolic variation
+with overall median CRP of 2.87 mg/L (IQR 1.37,
+5.99), IL-6 of 3.11 pg/mL (IQR 2.23, 4.46), CysC
+of 0.78 mg/L (IQR 0.68, 0.90), insulin 72.15 pmol/L
+(IQR 48.20, 104.00), GDF-15 of 833.00 pg/mL (IQR
+670.00, 1083.00), and TNF-R1 of 1185.00 pg/mL
+(IQR 994.00, 1451.00).
+
+Caloric restriction as a predictor of change in
+biomarker index
+For analyses of the associations between CR and
+change in composite biomarker index, where an
+indicator for assignment to CR was the only predictor in the model (model 1), we found that the
+directionality of within-study estimates showed
+that CR was consistently associated with improvements in the biomarker index, particularly in
+inflammatory and metabolic markers including
+CRP, IL-6, insulin, and TNF-R1 (with the exception of the MEDIFAST study; see Supplemental
+Fig. 1a). For GDF-15 and CysC, there was considerable heterogeneity across studies. For the
+model using the quintile sum score as the outcome (Fig. 1A), CR was estimated to be associated with a −2.2 (95% CI −2.9 to −1.5) difference
+in the quintile score of change, with estimates for
+all studies being less than zero (see Supplemental
+Table 2). Imputed and non-imputed analyses provided consistent conclusions.
+
+Change in weight, BMI, and individual biomarkers
+by caloric restriction status
+
+Change in weight as a predictor of change in
+biomarker index
+
+Across all seven studies, assignment to CR was associated with consistent reductions in BMI and body weight
+compared with assignment to no-CR conditions. The
+overall mean decrease in BMI was −2.81 kg/m2 in CR
+groups compared with −0.41 kg/m2 in no-CR groups
+and overall mean weight loss of −7.9 kg versus −1.2 kg,
+respectively (Table 2). CR groups overall showed modest reduction in CRP with overall mean group difference
+of 1.09 mg/mL (95% CI 0.28, 1.89), IL-6 with overall
+mean group difference of −0.07 pg/mL (95% CI −1.09,
+0.94), and CysC with overall mean group difference of
+−0.03 mg/L (95% CI −0.08, 0.02). Insulin declined with
+overall mean group difference 13.34 pmol/mL (95% CI
+6.17, 20.51). GDF-15 and TNF-R1 showed more variability across studies with overall mean group differences
+of 15.95 pg/mL (95% CI −21.89, 53.79) and 37.02 pg/
+mL (95% CI −12.42, 86.47).
+
+Analyses of change in weight versus change in
+biomarker index (model 2) provided similar conclusions to those found for CR. Within and across
+studies, larger decreases in weight were associated
+with larger improvements in the biomarker index,
+specifically inflammatory and metabolic components CRP, IL-6, insulin, and TNF-R1, with more
+heterogeneity among study-specific estimates for
+CysC and GDF-15 (see Supplemental Fig. 1b). For
+the model using the quintile sum score as the outcome (Fig. 1B), a difference in weight loss of 1 kg
+between people was estimated to be associated with
+a 0.22 (95% CI 0.09 to 0.34) difference in the quintile score of change, with estimates for all studies
+being greater than zero (see Supplemental Table 2).
+Imputed and non-imputed analyses provided consistent conclusions.
+
+Vol.: (0123456789)
+
+GeroScience
+Table 3  Mediation analysis of the effect of CR on changes in biomarkers mediated by weight change
+Outcome
+
+Change in log CRP
+Change in log IL-6
+Change in cystatin C
+Change in insulin
+Change in GDF
+Change in TNF-R1
+Quintile sum score
+
+Estimate (95% confidence interval)
+Total effect
+
+Direct effect
+
+Indirect effect*
+
+% mediated*
+
+−0.36 (−0.50, −0.22)
+−0.13 (−0.22, −0.04)
+0.03 (−0.01, 0.08)
+−14.62 (−21.90, −7.34)
+−21.53 (−60.37, 17.30)
+−45.75 (−97.88, 6.39)
+−1.99 (−2.72, −1.26)
+
+−0.14 (−0.30, 0.02)
+−0.06 (−0.17, 0.05)
+0.06 (−0.002, 0.12)
+−3.34 (−11.84, 5.16)
+−20.96 (−67.92, 25.99)
+−33.51 (−95.94, 28.93)
+−1.34 (−2.24, −0.44)
+
+−0.22 (−0.31, −0.14)
+−0.06 (−0.12, −0.01)
+−0.02 (−0.05, 0.003)
+−12.19 (−16.26, −8.33)
+2.94 (−22.50, 27.54)
+−12.17 (−38.82, 15.98)
+−0.94 (−1.40, −0.49)
+
+64.9 (34.7, 107.5)
+58.7 (2.6, 143.9)
+−54.3 (−693.3, 601.6)
+85.1 (48.5, 156.8)
+−6.3 (−362.3, 405.0)
+16.0 (−88.2, 267.3)
+48.5 (22.6, 82.2)
+
+*Confidence intervals were estimated using 1000 bootstrap samples. Bolded entries represent statistically significant effects.
+
+Both CR and change in weight as predictors of
+change in biomarker index
+Across all studies, randomization to CR was associated with a 6.7 kg (95% CI 5.9 to 7.5) difference in
+weight loss between groups (see Table 2). Due to
+this strong relationship, we expected to see attenuation of effects when both the assignment to CR
+and change in weight were modeled together. This
+effect is apparent both within and across studies for
+estimates for individual biomarkers (Supplemental
+Fig. 1c and d) and for predicting the quintile sum
+score using both CR (Fig. 1C) and weight change
+(Fig. 1D) in the models. The effect of CR assignment decreased from −2.2 in the univariate model
+to −1.2 (95% CI −2.0 to −0.3; see Supplemental
+Table 2) when weight change was included in the
+model and the effect of weight loss decreased from
+0.22 to 0.16 (95% CI 0.09 to 0.23) when CR was
+included in the model, suggesting that improvements in the biomarker index are partially but not
+completely mediated by the amount of weight loss.
+Mediation analysis
+Table 3 summarizes the estimated indirect effects of
+CR on changes in biomarker index mediated through
+change in weight in the overall sample. Significant
+indirect effects of randomization to CR were observed
+for log-transformed CRP −0.22 (95% CI −0.31 to
+−0.14), log-transformed IL-6 −0.06 (95% CI −0.12
+to −0.01), and insulin −12.19 (95% CI −16.26 to
+−8.33). The composite biomarker index (quintile sum
+score) also showed a notable indirect effect of −0.94
+(95% CI −1.40 to −0.49). The composite biomarker
+Vol:. (1234567890)
+
+index (quintile sum) similarly decreased by 0.94
+units by the indirect (weight-mediated) effect of CR
+through weight loss, demonstrating that weight loss
+partially mediated this reduction. In contrast, the indirect effects for the individual biomarkers CysC, GDF15, and TNF-R1 were not statistically significant.
+Further, direct effects of CR, representing weightindependent pathways, did not reach statistical significance for individual biomarkers. However, statistically significant residual direct effects remained
+for the quintile sum score −1.34 (95% CI −2.24 to
+−0.44), indicating that CR influenced this composite
+biomarker index through both weight-dependent and
+weight-independent mechanisms. Note that the result
+for the MEDIFAST study did not converge due to the
+small sample size. Imputed (data not shown) and nonimputed analyses provided consistent conclusions.
+Figure 2a illustrates the estimated indirect effects
+of CR on changes in biomarker index through change
+in weight for individual studies and overall. CR
+showed consistent negative indirect effects on logtransformed CRP, log-transformed IL-6, and insulin, with most study-specific estimates below zero
+and the overall effect notably negative. The effect on
+CysC was small and near zero across studies. Indirect
+effects for GDF-15 and TNF-R1 were not statistically significant, as confidence intervals were wide
+and crossed zero in all studies. Overall, these findings
+suggest that weight-mediated effects of CR are most
+evident for CRP, IL-6, and insulin.
+The estimated indirect effects of CR on the quintile
+sum score through change in weight across individual
+studies and the overall sample were shown in Fig. 2b.
+All study-specific effects were negative, indicating
+that CR tended to lead to reductions in the quintile
+
+GeroScience
+
+Fig. 2  a Indirect (weight-mediated) effect of CR on change
+in each biomarker through change in weight, shown for individual studies and overall. Estimated indirect effects of CR on
+each biomarker through change in body weight are shown for
+individual studies and pooled analysis (overall). Indirect effects
+were calculated using mediation models as the product of the
+CR-weight and weight-biomarker associations. Points represent study-specific estimates with 95% confidence intervals;
+pooled estimates are shown as summary effects. b Indirect
+
+(weight-mediated) effect of CR on composite biomarker index
+through change in weight, shown for individual studies and
+overall. Estimated indirect effects of CR on change in composite biomarker index through change in body weight are shown
+for individual studies and pooled analysis (overall). Indirect
+effects were derived from mediation models as the product of
+CR-weight and weight-outcome associations. Points represent
+study-specific estimates with 95% confidence intervals; pooled
+estimates are shown as summary effects
+
+Vol.: (0123456789)
+
+GeroScience
+
+Fig. 2  (continued)
+
+sum score via change in weight, although only the
+IDEA study showed a statistically significant indirect
+effect. The overall estimate of the indirect effect was
+−0.94, with a confidence interval that did not cross
+zero, supporting a statistically significant indirect effect
+(Table 3). Overall, these findings suggest that weight
+loss accounts for only part of the effect of CR on the
+biomarker index (quintile sum score). Approximately
+48.5% (95% CI 22.6 to 82.2%) of the effect of CR on
+the biomarker index was mediated by weight loss.
+In the sensitivity analysis restricted to the CLIP,
+EMPOWER, and IDEA datasets, further adjustment
+Vol:. (1234567890)
+
+for exercise modalities did not substantively alter the
+primary findings, and overall conclusions remained
+unchanged (data not shown).
+Discussion
+In this pooled analysis of CR trials in older adults,
+we demonstrate that CR is consistently associated
+with improvements in a composite biomarker index
+reflecting inflammatory and metabolic domains of
+biological aging. These findings support the utility of
+
+GeroScience
+
+a biomarker index as a sensitive measure of response
+to geroscience-informed interventions and provide
+insight into the mechanisms through which CR may
+influence aging biology. Consistent with prior trials
+and meta-analyses, CR and weight loss interventions
+have been shown to improve inflammatory and metabolic biomarkers across populations, supporting their
+relevance to aging-related pathways [27–32].
+The six biomarkers comprising the index (CRP,
+IL-6, TNF-R1, insulin, GDF-15, and cystatin C)
+were selected based on the framework proposed by
+the TAME (Targeting Aging with Metformin) Biomarkers Workgroup, which identified blood-based
+biomarkers with the strongest evidence for capturing core hallmarks of aging, such as inflammation,
+insulin/IGF-1 signaling, and cellular stress response,
+while remaining feasible for measurement in largescale geroscience clinical trials [13]. This panel, and
+the resulting composite index, has previously been
+evaluated in a randomized trial of CR and exercise in
+older adults with heart failure with preserved ejection
+fraction, where it demonstrated sensitivity to intervention-related change in a comparably aged, comorbid population [14]. Building on this prior validation
+work, we applied the same index across the seven trials pooled to test its consistency and responsiveness
+to CR across a broader range of study populations and
+intervention durations.
+A central finding of this study is that approximately
+48.5% (95% CI 22.6 to 82.2%) of the effect of CR on
+the biomarker index was mediated by weight loss. The
+effects of CR assignment decreased from −2.2 in the
+univariate model to −1.2 (95% CI −2.0 to −0.3) after
+adjusting for weight change. Similarly, the estimated
+effects of loss decreased from 0.22 to 0.16 (95% CI
+0.09 to 0.23) after adjusting for CR assignment. This
+decrease was expected because the CR assignment
+and weight loss were strongly related, such that each
+variable partially accounted for the same variance in
+the biomarker index improvement. These findings
+suggest that improvements in the biomarker index are
+partially, but not completely, mediated by the amount
+of weight loss. Both CR assignment and magnitude
+of weight loss were independently associated with
+favorable changes in the index. This was particularly
+evident for CRP, IL-6, and insulin, suggesting that
+reductions in systemic inflammation and metabolic
+dysregulation may be key pathways linking CR to
+improvements in biological aging.
+
+The persistence of CR effects after adjustment for
+weight change supports the presence of weight-independent mechanisms, consistent with prior evidence
+from trials such as CALERIE and SELECT demonstrating metabolic and inflammatory benefits beyond
+weight loss alone [8, 33–35]. These findings are further supported by animal models, where CR extends
+lifespan and delays the onset of age-related diseases
+through mechanisms that are not solely dependent on
+reductions in body weight or adiposity [5, 6]. Notably, lifespan extension with ~40% CR appears to be
+independent of body fat levels; in some studies, the
+longest-lived animals within CR groups are those
+with the highest fat mass. Similarly, in genetically
+diverse outbred mice, mice that maintain relatively
+greater body weight and fat mass under CR conditions tend to exhibit the greatest longevity [6].
+Several candidate mechanisms could explain this
+weight-independent benefit. CR is known to activate AMP-activated protein kinase (AMPK) and sirtuin (SIRT1) while suppressing mechanistic target
+of rapamycin (mTOR) signaling, a nutrient-sensing
+pathway that stimulates autophagy of damaged proteins and organelles [36, 37]. Those same mechanisms (AMPK, SIRT1, and mTOR) have been linked
+to reducing oxidative stress and attenuating chronic
+low-grade inflammation, offering a plausible bridge
+to the CRP and IL-6 improvements observed in our
+study independent of weight loss [38]. Mitochondrial
+adaptations and immunometabolic shifts in innate
+immune cell function have also been implicated in
+CR-associated benefits in animal models, offering
+possible pathways that could extend to the insulinsensitivity improvements observed in this study [37,
+39]. These example pathways offer a biological explanation for why CR assignment retained an independent effect on the biomarker index after adjustment for
+weight change; though not directly measured in this
+study, these mechanisms remain inferential in this
+analysis.
+Our results extend prior work by demonstrating
+that a composite biomarker index provides a robust
+and consistent signal of intervention response across
+heterogeneous studies. While individual components
+such as GDF-15 and cystatin C showed variability,
+the overall index demonstrated consistent improvement with CR and weight loss across cohorts. This
+supports the conceptual TAME framework mentioned
+above, which emphasizes the value of integrating
+Vol.: (0123456789)
+
+GeroScience
+
+multiple biomarkers to capture the multidimensional
+nature of aging biology and reduce variability inherent to single-biomarker approaches [14].
+Prior work comparing DNA-methylation-based
+epigenetic clock with other approaches found that
+biomarker indices, telomere length, and epigenetic
+clocks are only weakly to moderately correlated with
+each other, suggesting each measure reflects a somewhat different aspect of aging rather than one common process [40]. Similarly, in the CALERIE trial, 2
+years of 25% CR slowed the pace of aging as measured by DunedinPACE but did not produce a detectable change in static epigenetic-age measures [10, 41],
+suggesting that measures which track ongoing change
+over time may be more sensitive to relatively short
+intervention than measures that estimate a fixed “biological age.” Based on our observations, this composite biomarker index may similarly reflect real-time
+physiological response rather than fixed age estimate,
+possibly accounting for the signal within these intervention durations. Whether this composite biomarker
+index correlates with epigenetic clocks or validated
+frailty indices was not addressed here but represents
+an opportunity for future work as discussed below.
+These findings have implications for the design
+of clinical trials targeting aging and healthspan. The
+responsiveness of the biomarker index to CR, coupled with its partial mediation by weight loss, suggests that such indices may serve as practical surrogate endpoints that capture both upstream biological
+processes and downstream clinical risk. The potential
+influence of exercise modality was considered. However, adjustment was not feasible due to confounding
+with the clinical site variable. In analyses restricted to
+CLIP, EMPOWER, and IDEA, the only studies with
+variation in exercise modalities, the results were consistent with the primary findings (data not shown).
+From a clinical perspective, obesity represents a
+growing public health concern as obesity is a major
+driver of multimorbidity, frailty, and disability [2,
+6, 42]. The prevalence of obesity is rising in older
+adults, with recent NHANES data suggesting that
+about 40% of US adults aged 65 years and older
+are living with obesity [43]. Interventions that target obesity-related risks could have profound effects
+on reducing multimorbidity and improving late-life
+health outcomes [44, 45]. Evidence from a secondary
+analysis of SELECT trial demonstrated reduced major
+adverse cardiovascular events (MACE) across all
+Vol:. (1234567890)
+
+weight categories, with cardiovascular benefit (~30%)
+driven largely by reduction in waist circumference
+rather than weight loss itself, accounting for approximately one-third of the observed risk reduction [34].
+The SELECT trial provided evidence that cardiovascular benefits may depend not only on weight loss
+itself but on weight-independent mechanisms.
+This study has several strengths, including the large,
+pooled sample from multiple rigorously conducted randomized trials, the use of standardized biomarker data,
+and the application of advanced analytic approaches
+including mediation modeling and imputation. Although
+pooling data from multiple cohorts inevitably introduces
+some degree of heterogeneity due to variations in participant eligibility, intervention intensity, and follow-up
+duration, several factors mitigated this risk. Specifically, multiple contributing trials utilized highly similar
+protocols, shared identical principal investigators, and
+implemented standardized quality control procedures
+to ensure uniform intervention delivery. Furthermore,
+study-specific estimates were generally consistent, and
+sensitivity analyses accounting for exercise modality
+yielded similar results, suggesting that the primary findings were highly robust and unlikely to be driven by
+systematic differences among individual studies. Given
+that the trials pooled here were of relatively short duration, our findings are best interpreted as evidence that
+CR favorably modified inflammatory and metabolic biomarkers associated with aging pathways. Establishing
+whether composite index improvement predicts longerterm reductions in the pace of aging, incident disease or
+mortality, will require longer follow-up and/or application to a larger longitudinal epidemiologic study. However, limitations should be considered. All studies were
+conducted within a single research network, which may
+affect generalizability to broader populations.
+Future work should focus on validating this biomarker index in independent and more diverse populations and further establish its relationship with hard
+clinical endpoints, including mortality, disability, and
+functional decline. Future work should also determine
+how the index relates to other established biological
+aging measures, including epigenetic clocks and validated frailty indices, to better position it within the
+broader landscape of geroscience biomarkers. Application of this index in large epidemiologic cohorts
+and pragmatic trials will be critical to determine its
+utility as a surrogate endpoint and to refine its role in
+guiding geroscience-informed interventions.
+
+GeroScience
+
+This integrated analysis demonstrates that CR
+influences aging-related biomarkers through both
+weight-dependent and independent pathways, with
+approximately half of its effects attributable to residual
+weight-independent pathways. Composite biomarker
+indices, such as those used here, capture these responses
+and may serve as surrogate endpoints for aging interventions [35]. Continued refinement of these indices, their
+applications in large epidemiologic cohorts, and a deeper
+understanding of the mechanisms underlying CR’s
+effects will be essential for advancing biomarker-driven
+approaches to extending healthspan in older adults.
+Acknowledgements The authors thank the members of Dr.
+Philip Kramer’s laboratory and members of the Wake Forest
+Pepper Center’s Integrative Biology Core, including Heather
+Gregory and John Stone, for their contributions to performing biomarker assays and data collections which supported this
+work.
+Author contribution M.M. and S.K. conceptualized the study.
+F.C.H. and M.M. led the statistical analysis and methodological
+design, with support from R.N. and H.C. P.K., D.H., B.N., and
+C.S. contributed to biomarker analysis, data collection, funding
+acquisition, and interpretation of results. C.G. drafted the manuscript. All authors contributed to the interpretation of findings,
+critically revised the manuscript for important intellectual content,
+and approved the final version for submission.
+Funding Open access funding provided by the Carolinas Consortium. This work was supported by grants from
+the National Institutes of Health: the Wake Forest University
+Claude D. Pepper Older American Independence Center, P30
+AG012332; U01 AG073240 (HALLO-P), R01 HL076441
+(CLIP), R01 AR052528 (IDEA), R01 HL093713 (INFINITE),
+R01 AG020583 (I’M FIT), R01AG051624 (EMPOWER);
+Jason Pharmaceuticals, Inc., a wholly owned subsidiary of
+Medifast, Inc.; R01 AG056418 (HOPE); UM1 TR004929; and
+T32 AG033534 (to Cassidy Guida).
+Data Availability The data that support the findings of this
+study are available from the corresponding author, C.G., upon
+reasonable request.
+Declarations
+Competing interests The authors declare no competing interests.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits
+use, sharing, adaptation, distribution and reproduction in any
+medium or format, as long as you give appropriate credit to the
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The
+images or other third party material in this article are included
+
+in the article’s Creative Commons licence, unless indicated
+otherwise in a credit line to the material. If material is not
+included in the article’s Creative Commons licence and your
+intended use is not permitted by statutory regulation or exceeds
+the permitted use, you will need to obtain permission directly
+from the copyright holder. To view a copy of this licence, visit
+http://creativecommons.org/licenses/by/4.0/.
+
+References
+1. López-Otín C, et al. The hallmarks of aging. Cell.
+2013;153:1194–217. https://​doi.​org/​10.​1016/j.​cell.​2013.​
+05.​039.
+2. Kennedy BK, et al. Geroscience: linking aging to chronic
+disease. Cell. 2014;159:709–13. https://​doi.​org/​10.​1016/j.​
+cell.​2014.​10.​039.
+3. Kritchevsky SB, Cummings SR. Geroscience: a translational review. JAMA. 2025;334:1094–102. https://​doi.​org/​
+10.​1001/​jama.​2025.​11289.
+4. Richardson A, et al. Significant life extension by
+ten percent dietary restriction. Ann N Y Acad Sci.
+2016;1363:11–7. https://​doi.​org/​10.​1111/​nyas.​12982.
+5. Speakman JR, Mitchell SE, Mazidi M. Calories or protein? The effect of dietary restriction on lifespan in rodents
+is explained by calories alone. Exp Gerontol. 2016;86:28–
+38. https://​doi.​org/​10.​1016/j.​exger.​2016.​03.​011.
+6. Schmauck-Medina T, et al. Dietary restriction in aging
+and longevity. Nat Aging. 2026;6:485–505. https://​doi.​
+org/​10.​1038/​s43587-​026-​01091-5.
+7. Nicklas BJ, et al. Effects of caloric restriction on cardiorespiratory fitness, fatigue, and disability responses
+to aerobic exercise in older adults with obesity: a randomized controlled trial. J Gerontol A Biol Sci Med Sci.
+2019;74:1084–90. https://​doi.​org/​10.​1093/​gerona/​gly159.
+8. Ravussin E, et al. A 2-year randomized controlled trial of
+human caloric restriction: feasibility and effects on predictors of health span and longevity. J Gerontol A Biol
+Sci Med Sci. 2015;70:1097–104. https://​doi.​org/​10.​1093/​
+gerona/​glv057.
+9. Belsky DW, et al. Change in the rate of biological aging
+in response to caloric restriction: CALERIE biobank
+analysis. J Gerontol A Biol Sci Med Sci. 2017;73:4–10.
+https://​doi.​org/​10.​1093/​gerona/​glx096.
+10. Belsky DW, et al. Quantification of the pace of biological aging in humans through a blood test, the
+DunedinPoAm DNA methylation algorithm. Elife.
+2020;9:e54870. https://​doi.​org/​10.​7554/​eLife.​54870.
+11. Kritchevsky SB, et al. Intentional weight loss and allcause mortality: a meta-analysis of randomized clinical
+trials. PLoS ONE. 2015;10:e0121993. https://​doi.​org/​
+10.​1371/​journ​al.​pone.​01219​93.
+12. Lincoff AM, et al. Semaglutide and cardiovascular outcomes
+in obesity without diabetes. N Engl J Med. 2023;389:2221–
+32. https://​doi.​org/​10.​1056/​NEJMo​a2307​563.
+13. Justice JN, et al. A framework for selection of bloodbased biomarkers for geroscience-guided clinical trials: report from the TAME biomarkers workgroup.
+Geroscience. 2018;40:419–36. https://​doi.​org/​10.​1007/​
+s11357-​018-​0042-y.
+Vol.: (0123456789)
+
+GeroScience
+14. Justice JN, et al. Evaluation of a blood-based geroscience biomarker index in a randomized trial of
+caloric restriction and exercise in older adults with
+heart failure with preserved ejection fraction. Geroscience.
+2022;44:983–95.
+https://​doi.​org/​10.​1007/​
+s11357-​021-​00509-9.
+15. Rejeski WJ, et al. Translating weight loss and physical activity programs into the community to preserve
+mobility in older, obese adults in poor cardiovascular
+health. Arch Intern Med. 2011;171:880–6. https://​doi.​
+org/​10.​1001/​archi​ntern​med.​2010.​522.
+16. Fanning J, et al. Intervening on exercise and daylong
+movement for weight loss maintenance in older adults:
+a randomized, clinical trial. Obesity. 2022;30:85–95.
+https://​doi.​org/​10.​1002/​oby.​23318.
+17. Stowe CL, Kennedy K, Emilson SS, et al. The Health,
+Aging, and Later-Life Outcomes Pilot Study: design,
+recruitment, and participants’ baseline characteristics.
+Contemp Clin Trials. 2025;157:108049. https://​doi.​org/​
+10.​1016/j.​cct.​2025.​108049.
+18. Messier SP, Mihalko SL, Legault C, et al. Effects of
+intensive diet and exercise on knee joint loads, inflammation, and clinical outcomes among overweight and
+obese adults with knee osteoarthritis: the IDEA randomized clinical trial. JAMA. 2013;310:1263–73. https://​
+doi.​org/​10.​1001/​jama.​2013.​277669.
+19. Nicklas BJ, et al. Effects of resistance training with
+and without caloric restriction on physical function and
+mobility in overweight and obese older adults: a randomized controlled trial. Am J Clin Nutr. 2015;101:991–
+9. https://​doi.​org/​10.​3945/​ajcn.​114.​105270.
+20. Beavers KM, et al. Effect of an energy-restricted, nutritionally complete, higher protein meal plan on body composition and mobility in older adults with obesity: a randomized controlled trial. J Gerontol A Biol Sci Med Sci.
+2019;74:929–35. https://​doi.​org/​10.​1093/​gerona/​gly146.
+21. Guralnik JM, et al. A short physical performance battery
+assessing lower extremity function: association with selfreported disability and prediction of mortality and nursing
+home admission. J Gerontol. 1994;49:M85–94. https://​
+doi.​org/​10.​1093/​geronj/​49.2.​m85.
+22. MacKinnon DP, Fairchild AJ, Fritz MS. Mediation analysis. Annu Rev Psychol. 2007;58:593–614. https://​doi.​org/​
+10.​1146/​annur​ev.​psych.​58.​110405.​085542.
+23. Imai K, Keele L, Tingley D. A general approach to causal
+mediation analysis. Psychol Methods. 2010;15:309–34.
+https://​doi.​org/​10.​1037/​a0020​761.
+24. VanderWeele TJ. Explanation in causal inference: developments in mediation and interaction. Int J Epidemiol.
+2016;45:1904–8. https://​doi.​org/​10.​1093/​ije/​dyw277.
+25. Lee H, et al. A guideline for reporting mediation analyses of randomized trials and observational studies: the
+AGReMA statement. JAMA. 2021;326:1045–56. https://​
+doi.​org/​10.​1001/​jama.​2021.​14075.
+
+Vol:. (1234567890)
+
+26. Schomaker M, Heumann C. Bootstrap inference when
+using multiple imputation. Stat Med. 2018;37:2252–66.
+https://​doi.​org/​10.​1002/​sim.​7654.
+27. Ryan AS, Nicklas BJ. Reductions in plasma cytokine levels with weight loss improve insulin sensitivity in overweight and obese postmenopausal women. Diabetes Care.
+2004;27:1699–705. https://​doi.​org/​10.​2337/​diaca​re.​27.7.​
+1699.
+28. Beavers KM, et al. Effects of total and regional fat loss
+on plasma CRP and IL-6 in overweight and obese older
+adults with knee osteoarthritis. Osteoarthritis Cartilage.
+2015;23:249–56. https://​doi.​org/​10.​1016/j.​joca.​2014.​11.​005.
+29. Shaver LN, et al. Effect of intentional weight loss on mortality biomarkers in older adults with obesity. J Gerontol
+A Biol Sci Med Sci. 2019;74:1303–9. https://​doi.​org/​10.​
+1093/​gerona/​gly192.
+30. Caristia S, et al. Is caloric restriction associated with better healthy aging outcomes? A systematic review and
+meta-analysis of randomized controlled trials. Nutrients.
+2020. https://​doi.​org/​10.​3390/​nu120​82290.
+31. Avenell A, et al. What are the long-term benefits of weight
+reducing diets in adults? A systematic review of randomized controlled trials. J Hum Nutr Diet. 2004;17:317–
+35. https://​doi.​org/​10.​1111/j.​1365-​277X.​2004.​00531.x.
+32. Drucker DJ. GLP-1-based therapies for diabetes, obesity and beyond. Nat Rev Drug Discov. 2025;24:631–50.
+https://​doi.​org/​10.​1038/​s41573-​025-​01183-8.
+33. Nicklas BJ, et al. Diet-induced weight loss, exercise, and
+chronic inflammation in older, obese adults: a randomized
+controlled clinical trial. Am J Clin Nutr. 2004;79:544–51.
+https://​doi.​org/​10.​1093/​ajcn/​79.4.​544.
+34. Deanfield J, et al. Semaglutide and cardiovascular outcomes by baseline and changes in adiposity measurements: a prespecified analysis of the SELECT trial.
+Lancet.
+2025;406:2257–68.
+https://​doi.​org/​10.​1016/​
+S0140-​6736(25)​01375-3.
+35. Ferrucci L, et al. Measuring biological aging in humans:
+a quest. Aging Cell. 2020;19:e13080. https://​doi.​org/​10.​
+1111/​acel.​13080.
+36. Escobar KA, Cole NH, Mermier CM, VanDusseldorp
+TA. Autophagy and aging: maintaining the proteome
+through exercise and caloric restriction. Aging Cell.
+2019;18(1):e12876. https://​doi.​org/​10.​1111/​acel.​12876.
+37. Fan J, Xu Y. Molecular mechanisms underlying the lifespan and healthspan benefits of dietary restriction across
+species. Front Genet. 2026;17:1771707. https://​doi.​org/​10.​
+3389/​fgene.​2026.​17717​07.
+38. Kökten T, Hansmannel F, Ndiaye NC, et al. Calorie
+restriction as a new treatment of inflammatory diseases.
+Adv Nutr. 2021;12(4):1558–70. https://​doi.​org/​10.​1093/​
+advan​ces/​nmaa1​79.
+39. Guarente L. Calorie restriction and sirtuins revisited.
+Genes Dev. 2013;27(19):2072–85. https://​doi.​org/​10.​
+1101/​gad.​227439.​113.
+
+GeroScience
+40. Belsky DW, Moffitt TE, Cohen AA, et al. Eleven telomere, epigenetic clock, and biomarker-composite quantifications of biological aging: do they measure the same
+thing? Am J Epidemiol. 2018;187(6):1220–30. https://​doi.​
+org/​10.​1093/​aje/​kwx346.
+41. Waziry R, Ryan CP, Corcoran DL, et al. Effect of longterm caloric restriction on DNA methylation measures
+of biological aging in healthy adults from the CALERIE
+trial. Nat Aging. 2023;3(3):248–57. https://​doi.​org/​10.​
+1038/​s43587-​022-​00357-y.
+42. van den Bussche H, et al. Which chronic diseases and disease combinations are specific to multimorbidity in the
+elderly? Results of a claims data based cross-sectional
+study in Germany. BMC Public Health. 2011;11:101.
+https://​doi.​org/​10.​1186/​1471-​2458-​11-​101.
+43. Emmerich SD, et al. Obesity and severe obesity prevalence in adults: United States, August 2021-August 2023.
+
+NCHS Data Brief. 2024;508. https://​doi.​org/​10.​15620/​
+cdc/​159281.
+44. Rillamas-Sun E, et al. Obesity and late-age survival without major disease or disability in older women. JAMA
+Intern Med. 2014;174:98–106. https://​doi.​org/​10.​1001/​
+jamai​ntern​med.​2013.​12051.
+45. Villareal DT, et al. Weight loss, exercise, or both and
+physical function in obese older adults. N Engl J Med.
+2011;364:1218–29. https://​doi.​org/​10.​1056/​NEJMo​a1008​
+234.
+Publisher’s Note Springer Nature remains neutral with regard
+to jurisdictional claims in published maps and institutional
+affiliations.
+
+Vol.: (0123456789)
+
+

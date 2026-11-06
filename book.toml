@@ -1,0 +1,7 @@
+[book]
+title = "CR Aging Biomarkers Wiki"
+authors = ["iamflipse"]
+description = "Curated wiki distilling Guida et al. (2026) GeroScience 10.1007/s11357-026-02529-9 — caloric restriction, weight-loss mediation, and a composite biomarker index of biological aging in older adults."
+
+[build]
+charset = "utf-8"
